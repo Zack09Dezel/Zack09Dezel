@@ -4,13 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zack09dezel&label=Profile%20views&color=0e75b6&style=flat" alt="zack09dezel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zack09dezel" alt="zack09dezel" /></a> </p>
-
-- I’m currently working on **Data Collection and Classification via Google Earth Engine(GEE)**
-
-- 🌱 I’m currently learning **Python and Java**
-
-- 📫 Reach me via LinkedIn! **linkedin.com/in/gusti-michael-ferdinand-208613302**
+- I’m currently working on **Data Collection and Classification via Google Earth Engine(GEE)** and learning **Python and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
