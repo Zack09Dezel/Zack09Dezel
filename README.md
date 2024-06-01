@@ -1,6 +1,6 @@
 <h1 align="center">"It's a me, Michael!"</h1>
 <h3 align="center">A curious guy with a penchant for learning</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5vlqsvkApaFjtvL6CZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/lanlancat-mochidad-5266-5vlqsvkApaFjtvL6CZ">via GIPHY</a></p>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://i.giphy.com/5vlqsvkApaFjtvL6CZ.webp")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zack09dezel&label=Profile%20views&color=0e75b6&style=flat" alt="zack09dezel" /> </p>
 
