@@ -1,6 +1,6 @@
 <h1 align="center">"It's a me, Michael!"</h1>
 <h3 align="center">A curious guy with a penchant for learning</h3>
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zack09dezel&label=Profile%20views&color=0e75b6&style=flat" alt="zack09dezel" /> </p>
 
