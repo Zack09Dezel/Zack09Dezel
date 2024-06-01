@@ -42,6 +42,6 @@
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gusti michael ferdinand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gusti michael ferdinand" height="30" width="40" /></a>
-<a href="https://instagram.com/mike_dezel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mike_dezel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gusti michael ferdinand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gusti michael ferdinand" height="30"  /><img width="12" /></a>
+<a href="https://instagram.com/mike_dezel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mike_dezel" height="30"  /><img width="12" /></a>
 </p>
