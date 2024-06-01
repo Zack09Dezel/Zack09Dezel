@@ -8,7 +8,7 @@
 - I’m currently working on **Data Collection and Classification via Google Earth Engine(GEE)** and learning **Python**
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
- <div style="display: flex; flex-direction: column; align="center">
+ <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zack09dezel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zack09dezel&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" />
   </div>
